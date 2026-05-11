@@ -60,7 +60,7 @@ A short gameplay walkthrough will be added after the first playable build.
 
 ## Current Status
 
-Foundation phase. Repository structure, documentation, roadmap, and Level 1 planning are being prepared before gameplay implementation begins.
+Foundation phase. The Unreal Engine project opens successfully, and the repository now contains the documentation, roadmap, issue backlog, and Level 1 planning needed before gameplay implementation begins.
 
 ## Development Roadmap Summary
 
@@ -74,14 +74,26 @@ Foundation phase. Repository structure, documentation, roadmap, and Level 1 plan
 
 See [docs/ROADMAP.md](docs/ROADMAP.md) for the full plan.
 
+## Documentation
+
+- [Game Design Document](docs/GAME_GDD.md)
+- [Roadmap](docs/ROADMAP.md)
+- [Level Design](docs/LEVEL_DESIGN.md)
+- [Architecture](docs/ARCHITECTURE.md)
+- [Audio Plan](docs/AUDIO_PLAN.md)
+- [Atmosphere Guide](docs/ATMOSPHERE_GUIDE.md)
+- [QA Checklist](docs/QA_CHECKLIST.md)
+- [GitHub Issue Backlog](docs/GITHUB_ISSUES.md)
+- [Release Checklist](docs/RELEASE_CHECKLIST.md)
+- [Development Log](docs/DEV_LOG.md)
+
 ## How to Open the Project
 
 1. Install Unreal Engine 5.
 2. Clone or download this repository.
-3. Open the `.uproject` file once it has been created.
+3. Open `LastShift.uproject`.
 4. Let Unreal generate any required intermediate files.
 
-If the `.uproject` file is not present yet, create the Unreal project first and keep this repository structure.
 
 ## How to Run the Level
 
